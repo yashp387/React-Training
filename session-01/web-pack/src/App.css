@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background: #f5f5f5;
+  padding-top: 40px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.cat {
+  width: 200px;
+  margin: 10px;
+}
+
+.svgImg {
+  width: 260px;
+}
